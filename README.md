@@ -40,3 +40,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=amirbahador-hub&amp;show_icons=true" alt="GitHub Stats"></p>
+
+## Stargazers
+
+[![Stargazers repo roster for @amirbahador-hub/django_style_guide](https://reporoster.com/stars/amirbahador-hub/django_style_guide)](https://github.com/amirbahador-hub/django_style_guide/stargazers)
