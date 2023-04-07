@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h1 align="center">
+  <br>
+  <a href="https://amirbahador-hub.github.io/"><img src="Amir Bahador.gif" alt="AmirBahador" width="200"></a>
+</h1>
+
 <!--
 **amirbahador-hub/amirbahador-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
