@@ -5,6 +5,8 @@
   <a href="https://amirbahador-hub.github.io/"><img src="Amir Bahador.gif" alt="AmirBahador"></a>
 </h1>
 <!-- <p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>  -->
+
+<a href="https://amirbahador-hub.github.io/"><img src="https://img.shields.io/badge/🪐Personal%20Website-My%20Cv%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge" height=25></a> 
 <a href="https://www.linkedin.com/in/amirbahador/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <!-- <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  -->
 <a href="https://www.youtube.com/@BahadorDev"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
