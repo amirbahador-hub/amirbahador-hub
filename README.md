@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile! I'm A senior Back-end developer and a DevOps engineer.    
+I am also quite passionate about learning new things.
