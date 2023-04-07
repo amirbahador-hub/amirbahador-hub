@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://amirbahador-hub.github.io/"><img src="Amir Bahador.gif" alt="AmirBahador" width="200"></a>
+  <a href="https://amirbahador-hub.github.io/"><img src="Amir Bahador.gif" alt="AmirBahador"></a>
 </h1>
 
 <!--
