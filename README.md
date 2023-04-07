@@ -37,3 +37,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <li><a href="https://www.youtube.com/watch?v=HQt-NZu3mTk&t=35s">LeetCode Sloutions</a></li><li><a href="https://www.youtube.com/watch?v=0Uui4CoM5Ww&t=2690s">Mock Interview</a></li>
   </ul>
 <p><a href="https://www.youtube.com/@BahadorDev">➡️ More Youtube videos</a></p>
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=amirbahador-hub&amp;show_icons=true" alt="GitHub Stats"></p>
