@@ -28,3 +28,12 @@ Here are some ideas to get you started:
 
 Welcome to my profile! I'm A senior Back-end developer and a DevOps engineer.    
 I am also quite passionate about learning new things.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+<h2>Latest Videos(In Persian)</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=KtYDIJN3wmM&list=PLYrn63eEqAzY5uG5ks_OquWcojzHvhp9Z">Django Ci/Cd FullCourse</a></li>
+    <li><a href="https://www.youtube.com/watch?v=HQt-NZu3mTk&t=35s">LeetCode Sloutions</a></li><li><a href="https://www.youtube.com/watch?v=0Uui4CoM5Ww&t=2690s">Mock Interview</a></li>
+  </ul>
+<p><a href="https://www.youtube.com/@BahadorDev">➡️ More Youtube videos</a></p>
