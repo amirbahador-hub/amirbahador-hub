@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile! I'm A senior Back-end developer and a DevOps engineer.    
+Welcome to my [Profile](https://amirbahador-hub.github.io/),! I'm A senior Back-end developer and a DevOps engineer.    
 I am also quite passionate about learning new things.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
